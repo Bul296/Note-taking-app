@@ -140,22 +140,14 @@ cd forntend
 npm i
 ```
 
-### 3. Environment Variables Setup
-Create a `.env` file in the root directory to connect with your backend API:
-```env
-VITE_API_BASE_URL=http://localhost:5000/api
-# Or if using Create React App / Next.js:
-# REACT_APP_API_BASE_URL=http://localhost:5000/api
-# NEXT_PUBLIC_API_BASE_URL=http://localhost:5000/api
-```
 
-### 4. Run the Development Server
+### 3. Run the Development Server
 ```bash
 npm run dev
 # or 
 npm start
 ```
-Open [http://localhost:3000](http://localhost:3000) (or the port shown in your terminal) to view it in the browser.
+Open [http://localhost:4001](http://localhost:4001) (or the port shown in your terminal) to view it in the browser.
 
 ---
 
